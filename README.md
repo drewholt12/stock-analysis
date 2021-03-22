@@ -1,9 +1,9 @@
 # VBA_Challenge
-utilizing VBA to analyze stock tickers performance
+Steve needs to evaluate stock performance to ensure his parents have made educated decisions for investments.  This project uses collected stock data from 2017 and 2018 showing daily prices and volume for twelve different stock ticker ID’s.  Prices are separated into open, close, high, and low for each day recorded.
 
 ## Overview of Project
-  Steve needs to evaluate stock performance to ensure his parents have made educated decisions for investments.  This project uses collected stock data from 2017 and 2018 showing daily prices and volume for twelve different stock ticker ID’s.  Prices are separated into open, close, high, and low for each day recorded.  
-  Using VBA code, we created a macro to utilize a click button for Steve to run an analysis on the supplied data.  The information collected and quantitated results in the annual volume and annual return for each stock.   Initial execution of the code showed a lengthy processing time.  To reduce the time needed to run the code, we refactored the code and utilized array’s to improve those run times.  
+    
+Using VBA code, a macro will be created to utilize a click button for Steve to run an analysis on the supplied data.  The information collected and quantitated results in the annual volume and annual return for each stock.   Initial execution of the code showed a lengthy processing time.  To reduce the time needed to run the code, we refactored the code and utilized array’s to improve those run times.  
 
 ## Results
 
